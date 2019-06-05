@@ -1,4 +1,3 @@
-#CountriesOfOrigin
 
 Afghanistan
 Albania
