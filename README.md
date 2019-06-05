@@ -1,2 +1,3 @@
 # Life-Sim
-Don't look in here 
+This project is going to be a text based life simulator
+
