@@ -1,3 +1,4 @@
+
 import random
 from random import randint
 print(" ")
@@ -31,35 +32,37 @@ print("Your date of birth is: " + dob)
 #actor crap
 male_name = random.choice(open("MaleNames.txt").readlines())
 female_name = random.choice(open("FemaleNames.txt").readlines())
-male_name1 = random.choice(open("MaleNames.txt").readlines())
-female_name1 = random.choice(open("FemaleNames.txt").readlines())
+action = random.choice(open("Actor_Actions.txt").readlines())
+surname = random.choice(open("Surnames.txt").readlines())
 
 def actor():
-    choice = (randint(1,4))
+    choice = (randint(1,2))
 
     if choice == 1:
-        print("The famous , " + male_name.strip() + " " + ", has died")
-    if choice == 2:
-        print("The famous, " + female_name.strip() + " " +  ", has been imprisoned")
-    if choice == 3:
-        print("The famous , " + female_name1.strip() + " " +  ", has died")    
+        print("The famous actor, " + male_name.strip() + " " + surname.strip() + ", " + action)   
     else:
-        print("The famous , " + male_name1.strip() + " " +  ", has been imprisoned")
-
+        print("The famous actor, " + female_name.strip() + " " + surname.strip() + ", " + action)
+#NEED TO RESET VARIABLES
 actor()
 
+#war
     
 #Main thing happening
 age = 0
 def life():
     
     global age
+
     politics = random.choice(open("Politics.txt").readlines())
-    print("You are now", +age ,"years old")
-    
-    if age < 6:
+    print("You are", +age ,"years old")
+
+    if age == 0:
+        age += 1
+        input("*Press Enter to age a year*")
+        life()
+    elif age < 6:
         baby = random.choice(open("Baby_Passive.txt").readlines())
-        print(baby.strip())
+        print(baby.strip()) #NEED TO SWITCH BETWEEN POLITICS AND ACTORS
         print(politics)
         age += 1
         input("*Press Enter to age a year*")
@@ -93,6 +96,8 @@ def life():
         input("*Press Enter to age a year*")
         life()
     else:
-        print("You died at the age of ", + age)
+        death = random.choice(open("Death.txt").readlines())
+        print("You died at the age of", int(age), " because of ",  str(death))
+        print("You will be missed")
 
 life()
