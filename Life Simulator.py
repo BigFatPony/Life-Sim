@@ -21,48 +21,74 @@ print("You have been born in " + Country)
 
 
 
-#Code from Barker
+#Calender
 day = random.randint(1,28)
 month = random.randint(1,12)
 year = random.randint(1960,2019)
 dob = str(day) + "/" + str(month) + "/" + str(year)
 print("Your date of birth is: " + dob)
 
-#passive event system + age
+#actor crap
+male_name = random.choice(open("MaleNames.txt").readlines())
+female_name = random.choice(open("FemaleNames.txt").readlines())
+male_name1 = random.choice(open("MaleNames.txt").readlines())
+female_name1 = random.choice(open("FemaleNames.txt").readlines())
 
+def actor():
+    choice = (randint(1,4))
 
+    if choice == 1:
+        print("The famous , " + male_name.strip() + " " + ", has died")
+    if choice == 2:
+        print("The famous, " + female_name.strip() + " " +  ", has been imprisoned")
+    if choice == 3:
+        print("The famous , " + female_name1.strip() + " " +  ", has died")    
+    else:
+        print("The famous , " + male_name1.strip() + " " +  ", has been imprisoned")
 
+actor()
+
+    
+#Main thing happening
 age = 0
 def life():
+    
     global age
-    print("You are now", +age ,"years old")  
+    politics = random.choice(open("Politics.txt").readlines())
+    print("You are now", +age ,"years old")
+    
     if age < 6:
         baby = random.choice(open("Baby_Passive.txt").readlines())
-        print(baby)
+        print(baby.strip())
+        print(politics)
         age += 1
         input("*Press Enter to age a year*")
         life()
     elif age > 5 and age < 12:
         child = random.choice(open("Child_Passive.txt").readlines())
-        print(teen)
+        print(child.strip())
+        actor()
         age += 1
         input("*Press Enter to age a year*")
         life()
     elif age > 11 and age < 18:
         teen = random.choice(open("Teen_Passive.txt").readlines())
-        print(teen)
+        print(teen.strip())
+        print(politics)        
         age += 1
         input("*Press Enter to age a year*")
         life()
-    elif age > 17 and age < 50:
+    elif age > 17 and age < 35:
         middle = random.choice(open("Middle_Passive.txt").readlines())
-        print(middle)
+        print(middle.strip())
+        print(politics)        
         age += 1
         input("*Press Enter to age a year*")
-        life()
-    elif age > 49 and age < 90:
+        life()    
+    elif age > 34 and age < 90:
         old = random.choice(open("Old_Passive.txt").readlines())
-        print(old)
+        print(old.strip())
+        print(politics)         
         age += 1
         input("*Press Enter to age a year*")
         life()
