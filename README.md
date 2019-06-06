@@ -5,7 +5,7 @@ It will mainly be reading lists and selecting random events, dates and names to 
 
 
 To do:
--Randomise male and female GENDER in text files
+
 -Randomise the year and print the year each year
 -Allow to user to start a year when they want to (with pressing a specific button they'll allow new random event to happen + progress in years)
 -Create an aging system (if older than a specific number they die)
