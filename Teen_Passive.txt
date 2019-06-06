@@ -1,3 +1,10 @@
+You got your hair pulled 
+A girl laughed at your spots
+You passed your math class
+You failed you math class
+You passed your english class
+You failed your english class
+You peed your pants
 You have been attacked by a dog
 You caught the flu
 You read a book
@@ -5,9 +12,7 @@ You caught a cold
 You watched a bad movie with your friends
 You met a new person
 You missed the bus
-Your car broke down
 You found £10
-You won the mini lottery, and spent it all on games
 Your phone broke
 You saw a stray dog
 You watched a good movie with your friends
@@ -30,3 +35,6 @@ You got stabbed with a spork
 You discovered a new game: Rainbow 7 Siege
 You watched your favourite show: The Stellaris
 Some random girl slagged you off in her twitch stream
+You cried yourself to sleep
+You studied
+You failed your exams

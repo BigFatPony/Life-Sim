@@ -1,3 +1,12 @@
+You ate a meal at a cafe
+You got mugged and lost £50
+Your phone broke
+You saw a stray dog
+You watched a good movie with your friends
+You went to a party
+You lost a friend
+You lost a quiz
+You killed a man
 You have been attacked by a dog
 You caught the flu
 You read a book
@@ -7,14 +16,6 @@ You met a new person
 You missed the bus
 Your car broke down
 You found £10
-You won the mini lottery, and spent it all on games
-Your phone broke
-You saw a stray dog
-You watched a good movie with your friends
-You went to a party
-You lost a friend
-You lost a quiz
-You killed a man
 You committed mass genocide
 You watched your favourite show: Trek Wars
 A famous actor, Luke Barker, overdosed on parma violets
