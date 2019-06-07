@@ -8,9 +8,11 @@ print(" ")
 #Beginning for the randomised version
 gender = (randint(1, 2))
 surname = random.choice(open("Surnames.txt").readlines())
+
 if gender == 1:
     male_name = random.choice(open("MaleNames.txt").readlines())        
     print("You are called " + male_name.strip() + " " + surname.strip())
+    
 else:
     female_name = random.choice(open("FemaleNames.txt").readlines())
     print("You are called " + female_name.strip() + " " + surname.strip())
@@ -55,12 +57,15 @@ def event():
 #Sexuality
 def sexuality():
     print("You began looking at people... and began wondering...gay... or straight")
-    sexuality = input("What is your sexuality? ")
-    if sexuality == "straight".upper:
-        print("You have chosen to be straight")
-    else:
-        print("You came out as gay")
-
+while sexuality != "S" and sexuality != "G":
+    sexuality = input("What is your sexuality:").upper()
+if sexuality == "S":
+    print("You have chosen to be straight")
+    sexualityno = 1
+else:
+    print("You came out as gay")
+    sexualityno = 2
+   
 #Marriage
 
 #Children
@@ -79,6 +84,7 @@ def life():
         age += 1
         input("*Press Enter to age a year*")
         life()
+        
     elif age < 6:
         baby = random.choice(open("Baby_Passive.txt").readlines())
         print(baby.strip()) 
@@ -86,6 +92,7 @@ def life():
         age += 1
         input("*Press Enter to age a year*")
         life()
+        
     elif age > 5 and age < 12:
         child = random.choice(open("Child_Passive.txt").readlines())
         print(child.strip())
@@ -93,21 +100,24 @@ def life():
         age += 1
         input("*Press Enter to age a year*")
         life()
+        
     elif age > 11 and age < 18:
         teen = random.choice(open("Teen_Passive.txt").readlines())
         print(teen.strip())
         event()
-        sexuality()
+        #sexuality()
         age += 1
         input("*Press Enter to age a year*")
         life()
+        
     elif age > 17 and age < 35:
         middle = random.choice(open("Middle_Passive.txt").readlines())
         print(middle.strip())
         event()        
         age += 1
         input("*Press Enter to age a year*")
-        life()    
+        life()
+        
     elif age > 34 and age < 90:
         old = random.choice(open("Old_Passive.txt").readlines())
         print(old.strip())
@@ -120,3 +130,9 @@ def life():
         print("You died at the age of", int(age), " because of",str(death))
         print("You will be missed")
 life()
+
+#make the death age randomised (40-90)
+#Marriage
+#Active events
+
+
