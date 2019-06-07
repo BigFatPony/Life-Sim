@@ -1,4 +1,8 @@
-from brain cancer
-from liver failure
-from anal cancer
-from paralysis
+brain cancer
+liver failure
+anal cancer
+paralysis
+a car accident
+a crazy old man with a chainsaw
+overdosing on drugs
+
