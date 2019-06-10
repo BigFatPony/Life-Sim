@@ -9,14 +9,17 @@ Currently it is able to do:
 ⌂Aging and death
 ⌂Political events
 ⌂Sexuality
+⌂Marriage
+⌂Children
 
 
 In progress:
 ⌂Figure out how to add randomised ACTIVE events
 ⌂War
 ⌂Switching between political events and actor events
-⌂Marriage
-⌂Children
+⌂More detailed lives
+⌂More unique lives
+
 
 
 
