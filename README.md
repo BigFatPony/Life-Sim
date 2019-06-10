@@ -10,12 +10,13 @@ Currently it is able to do:
 ⌂Political events
 ⌂Sexuality
 
+
 In progress:
 ⌂Figure out how to add randomised ACTIVE events
 ⌂War
 ⌂Switching between political events and actor events
 ⌂Marriage
 ⌂Children
-⌂Removing global variables
+
 
 
