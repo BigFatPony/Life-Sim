@@ -8,11 +8,14 @@ Currently it is able to do:
 ⌂Randomised passive events
 ⌂Aging and death
 ⌂Political events
+⌂Sexuality
 
 In progress:
 ⌂Figure out how to add randomised ACTIVE events
 ⌂War
 ⌂Switching between political events and actor events
-⌂Sexuality and marriage
+⌂Marriage
+⌂Children
+⌂Removing global variables
 
 
