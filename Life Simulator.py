@@ -99,25 +99,25 @@ def life():
         life()
         
     elif age == 14:
-        sexuality = input("What sexuality do you want to be: \n"
-                              "S.Straight \n"
-                              "G
-                          .Gay \n")
-        while sexuality != "S".lower and sexuality != "G".lower:
+            sexuality = input("What sexuality do you want to be: \n"
+                              "1. Straight \n"
+                              "2. Gay \n")
+            while sexuality != "1" and sexuality != "2":
                 sexuality = input("What sexuality do you want to be: \n"
-                              "S.Straight \n"
-                              "G.Gay \n")
-                if sexuality == "1":
-                    print("You have decided to be Straight")
-                    age += 1
-                    life()
-                else:
-                    print("You have come out as Gay")
-                    input("*Press Enter to age a year*")
-                    life()
-                    age += 1
+                              "1. Straight \n"
+                              "2. Gay \n")
+            if sexuality == "1":
+                print("You have decided to be Straight.")
+                age += 1
+                life()
+            else:
+                print("You have come out as Gay.")
+            input("*Press Enter to Age a year*")
+            age += 1
+            life()
+
                                              
-    elif age > 15 and age < 19:
+    elif age >= 15 and age < 19:
         middle = random.choice(open("Middle_Passive.txt").readlines())
         print(middle.strip())
         event()        
@@ -163,9 +163,3 @@ def life():
         print("You died at the age of", int(age), " because of",str(death))
         print("You will be missed")
 life()
-
-#make the death age randomised (40-90)
-#Marriage
-#Active events
-
-
