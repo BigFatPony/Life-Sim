@@ -7,6 +7,7 @@ Paige
 Monica
 Victoria
 Kate
+Susan
 Maya
 Ellie
 Robin
@@ -60,4 +61,8 @@ Sharon
 Claire
 Kathrine
 Deanna
-
+Amy
+Samantha
+Zoe
+Zoey
+Kira

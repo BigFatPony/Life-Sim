@@ -1,17 +1,21 @@
-You have been attacked by a dog
-You caught the flu
-You read a book
-You caught a cold
+You have been attacked by a dog.
+You caught the flu.
+You read a book.
+You caught a cold.
 You watched a bad movie with your friends
-You met a new person
-You saw a stray dog
-You watched a good movie with your friends
-You got a new toy for your birthday
-You realised Santa isn't real
-You got £2 from the tooth fairy
-You got a new BMX for christmas
-You started drawing with oil paint
-You swallowed a lego and almost died
-You tripped and broke your leg
-You tried playing pokemon and got addicted
-You bought a Pikachu teddy
+You met a new person.
+You saw a stray dog.
+You watched a good movie with your friends.
+You got a new toy for your birthday.
+You realised Santa isn't real.
+You got £2 from the tooth fairy.
+You got a new BMX for christmas.
+You started drawing with oil paint.
+You swallowed a lego and almost died.
+You tripped and broke your leg.
+You tried playing pokemon and got addicted.
+You bought a Pikachu teddy.
+Your father hit you with a slipper for breaking a vase.
+You watched a trailer.
+
+
