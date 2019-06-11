@@ -60,7 +60,8 @@ def marriage():
     choice = (randint(0,5))
     relationship = random.choice(open("Marriage_Events.txt").readlines())
     if choice == 0:
-        print(stuff.strip())
+        print(relationship
+              .strip())
     elif choice == 5:
         kids = random.choice(open("Parent_Events.txt").readlines())
         print(kids)
@@ -168,7 +169,7 @@ def life():
 
         elif age == 30:
             bgender = (randint(1, 2))
-            if gender == 1:
+            if bgender == 1:
                 child = random.choice(open("MaleNames.txt").readlines())        
             else:
                 child = random.choice(open("FemaleNames.txt").readlines())
