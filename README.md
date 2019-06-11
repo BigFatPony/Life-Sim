@@ -11,12 +11,12 @@ Currently it is able to do:
 ⌂Sexuality
 ⌂Marriage
 ⌂Children
+⌂Switching between political events and actor events
+⌂War
 
 
 In progress:
 ⌂Figure out how to add randomised ACTIVE events
-⌂War
-⌂Switching between political events and actor events
 ⌂More detailed lives
 ⌂More unique lives
 
