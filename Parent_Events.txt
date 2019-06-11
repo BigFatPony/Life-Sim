@@ -1,2 +1,6 @@
-You have a new child. It is a girl
-You have a new child. It is a boy
+You have a new child. It is a girl!
+You have a new child. It is a boy!
+Your child brought home a drawing of you. It was hideous!
+Your child bought you a birthday present.
+Your child got an F on their report card.
+Your child got an A on their report card.

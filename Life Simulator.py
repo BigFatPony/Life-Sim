@@ -56,7 +56,16 @@ def event():
 
   
 #Marriage
-
+def marriage():
+    choice = (randint(0,5))
+    relationship = random.choice(open("Marriage_Events.txt").readlines())
+    if choice == 0:
+        print(stuff.strip())
+    elif choice == 5:
+        kids = random.choice(open("Parent_Events.txt").readlines())
+        print(kids)
+    else:
+        print(" ")
 #Children
 
     
@@ -141,7 +150,8 @@ def life():
         elif age >= 21 and age < 25:
             middle = random.choice(open("Middle_Passive.txt").readlines())
             print(middle.strip())
-            event()        
+            event()
+            marriage()
             age += 1
             input("*Press Enter to age a year*")
             
