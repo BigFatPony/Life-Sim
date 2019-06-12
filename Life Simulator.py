@@ -1,9 +1,15 @@
+
 import random
 from random import randint
 print(" ")
 print("Welcome to Aggie's Life Simulator")
 print("All these events are randomly generated")
 print(" ")
+
+#custom
+
+
+
 
 #Beginning for the randomised version
 gender = (randint(1, 2))
@@ -28,7 +34,7 @@ year = random.randint(1960,2019)
 dob = str(day) + "/" + str(month) + "/" + str(year)
 print("Your date of birth is: " + dob)
 
-#actor crap
+#Randomised actor names + events
 def actor():
     male_name = random.choice(open("MaleNames.txt").readlines())
     female_name = random.choice(open("FemaleNames.txt").readlines())
@@ -56,9 +62,8 @@ def event():
         actor()
     else:
      print(" ")   
-
-  
-#Marriage
+ 
+#Marriage + kid events
 def marriage():
     choice = (randint(0,5))
     relationship = random.choice(open("Marriage_Events.txt").readlines())
@@ -69,21 +74,25 @@ def marriage():
         print(kids)
     else:
         print(" ")
-#Children
+#This selects a random number for death
+global ageno
+ageno = (randint(70,90))
+
+
 
     
 #Main thing happening
 def life():
     
     age = 0
-    while age < 90:
+    while age < ageno:
         print("Age: " + str(age) + " years old")
         
         if age == 0:
             input("*Press Enter to age a year*")
             age += 1
         
-        elif age < 6:
+        elif age < 4:
             baby = random.choice(open("Baby_Passive.txt").readlines())
             print(baby.strip()) 
             event()
@@ -91,7 +100,7 @@ def life():
             input("*Press Enter to age a year*")
 
         
-        elif age >= 6 and age < 12:
+        elif age >= 4 and age < 12:
             child = random.choice(open("Child_Passive.txt").readlines())
             print(child.strip())
             event()
@@ -106,7 +115,7 @@ def life():
             age += 1
             input("*Press Enter to age a year*")
 
-        
+        #Sexuality
         elif age == 14:
                 sexuality = input("What sexuality do you want to be: \n"
                               "1. Straight \n"
@@ -131,7 +140,7 @@ def life():
             age += 1
             input("*Press Enter to age a year*")
 
-        
+        #partner picking
         elif age == 20:
                 if gender == 1:
                     if sexuality == 2:
@@ -170,28 +179,33 @@ def life():
             age += 1
             input("*Press Enter to age a year*")
 
+        #Child naming
         elif age == 30:
             bgender = (randint(1, 2))
             if bgender == 1:
-                child = random.choice(open("MaleNames.txt").readlines())        
+                    print("You have a daughter!")
+                    child = input("What would you like to name her:")
+                    print("You have a daughter named " + child)
             else:
-                child = random.choice(open("FemaleNames.txt").readlines())
-            print("You and your partner had a child " + child)
+                    print("You have a son!")
+                    child = input("What would you like to name him:")
+                    print("You have a son named " + child)
             age += 1
         
-        elif age >= 30 and age < 50:
+        elif age >= 30 and age < 80:
             old = random.choice(open("Old_Passive.txt").readlines())
             print(old.strip())
             event()         
             age += 1
             input("*Press Enter to age a year*")
             
-        elif age == 50:
+        #Partner death    
+        elif age == 80:
             death = random.choice(open("Death.txt").readlines())
             print ("Your partner," + partner.strip() + " ,has died from" + death)
             age += 1
             
-        elif age >= 50 and age < 90:
+        elif age >= 80 and age < 90:
             old = random.choice(open("Old_Passive.txt").readlines())
             print(old.strip())
             event()         
