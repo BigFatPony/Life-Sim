@@ -1,4 +1,5 @@
 
+
 import random
 from random import randint
 print(" ")
@@ -6,7 +7,26 @@ print("Welcome to Aggie's Life Simulator")
 print("All these events are randomly generated")
 print(" ")
 
-#custom
+#Picking
+choice = input("Would you like a custom game, or randomised game? \n"
+                              "1. Custom \n"
+                              "2. Random \n")
+while choice != "1" and sexuality != "2":
+    choice = input("Would you like a custom game, or randomised game? \n"
+                              "1. Custom \n"
+                              "2. Random \n")
+
+
+#Custom
+gender = input("What gender would you like to be(M/F)? ").upper()
+while gender != "M" and gender != "F":
+    gender = input("What gender would you like to be(M/F)? ").upper()
+if gender == "M":
+    gendernum = 1
+else:
+    gendernum = 2
+    
+
 
 
 
