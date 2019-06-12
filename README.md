@@ -19,6 +19,7 @@ In progress:
 ⌂Figure out how to add randomised ACTIVE events
 ⌂More detailed lives
 ⌂More unique lives
+⌂Making the user decide on a random or custom game
 
 
 
