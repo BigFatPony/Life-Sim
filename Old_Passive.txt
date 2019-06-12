@@ -2,7 +2,7 @@ You played Bingo and won.
 You crossed the road.
 You went to a church.
 You saw a horse.
-You went to a pool
+You went to a pool.
 You slipped in your bath.
 Your friend got cancer.
 A famous Priest, Thomas Jeeves, died in a fire.
@@ -33,3 +33,20 @@ You dontated to charity for black kids.
 You went to your parents grave.
 You went to the hospital for a check up.
 You drew.
+You adopted a stray dog.
+You went on a walk to the park.
+You threw up.
+You called your child.
+Your sister died.
+Your brother died.
+You went to the shop for milk.
+You found £5 laying on the pavement.
+You watched TV.
+You started to sew.
+You sewed a hat.
+You sewed some socks.
+You watched a film about war.
+You cried yourself to sleep from being lonely.
+
+
+

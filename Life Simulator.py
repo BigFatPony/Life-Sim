@@ -19,6 +19,7 @@ else:
     
 Country = random.choice(open("Countries.txt").readlines())
 print("You have been born in " + Country)
+print(" ")
 
 #Calender
 day = random.randint(1,28)
@@ -46,9 +47,11 @@ def event():
     war = random.choice(open("War.txt").readlines())    
     if choice == 0:
         print( war.strip())
+        print(" ")
     elif choice == 5:
         politics = random.choice(open("Politics.txt").readlines())
         print(politics)
+        print(" ")
     elif choice == 10:
         actor()
     else:
@@ -60,8 +63,7 @@ def marriage():
     choice = (randint(0,5))
     relationship = random.choice(open("Marriage_Events.txt").readlines())
     if choice == 0:
-        print(relationship
-              .strip())
+        print(relationship.strip())
     elif choice == 5:
         kids = random.choice(open("Parent_Events.txt").readlines())
         print(kids)
@@ -133,6 +135,7 @@ def life():
         elif age == 20:
                 if gender == 1:
                     if sexuality == 2:
+                        global partner
                         partner = random.choice(open("MaleNames.txt").readlines())
                         print("You started to date: " + partner)
                     else:
@@ -147,7 +150,7 @@ def life():
                         print("You started to date: " + partner)
                 input("*Press Enter to age a year*")
                 age += 1
-
+    
         elif age >= 21 and age < 25:
             middle = random.choice(open("Middle_Passive.txt").readlines())
             print(middle.strip())
@@ -176,12 +179,25 @@ def life():
             print("You and your partner had a child " + child)
             age += 1
         
-        elif age >= 30 and age < 90:
+        elif age >= 30 and age < 50:
             old = random.choice(open("Old_Passive.txt").readlines())
             print(old.strip())
             event()         
             age += 1
             input("*Press Enter to age a year*")
+            
+        elif age == 50:
+            death = random.choice(open("Death.txt").readlines())
+            print ("Your partner," + partner.strip() + " ,has died from" + death)
+            age += 1
+            
+        elif age >= 50 and age < 90:
+            old = random.choice(open("Old_Passive.txt").readlines())
+            print(old.strip())
+            event()         
+            age += 1
+            input("*Press Enter to age a year*")
+            
     else:
         death = random.choice(open("Death.txt").readlines())
     print("You died at the age of", int(age), " because of",str(death))
