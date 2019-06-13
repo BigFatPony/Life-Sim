@@ -5,47 +5,7 @@ print("Welcome to Aggie's Life Simulator")
 print("All these events are randomly generated")
 print(" ")
 
-
-#Picking
-choicez = input("Would you like a custom game, or randomised game? \n"
-                              "1. Custom \n"
-                              "2. Random \n")
-while choicez != "1" and choicez != "2":
-    choicez = input("Would you like a custom game, or randomised game? \n"
-                              "1. Custom \n"
-                              "2. Random \n")
-if choicez == "1": #custom 
-    genderc = input("What gender would you like to be(M/F)? ").upper()
-    while genderc != "M" and genderc != "F":
-            genderc = input("What gender would you like to be(M/F)? ").upper()
-            if genderc == "M":
-                    gendercnum = 1
-            else:
-                    gendercnum = 2
-    cname = input("What would you like to be named: ")
-    csurname = input("What would you like your surname to be: ")
-    cyear = input("Please specify a year: ")
-    print("You are called " + cname + " " + csurname + " in the year " + cyear)
-    customlife()
-
-else:
     
-#Beginning for the randomised version
-    gender = (randint(1, 2))
-    surname = random.choice(open("Surnames.txt").readlines())
-
-    if gender == 1:
-        male_name = random.choice(open("MaleNames.txt").readlines())        
-        print("You are called " + male_name.strip() + " " + surname.strip())
-    
-    else:
-        female_name = random.choice(open("FemaleNames.txt").readlines())
-        print("You are called " + female_name.strip() + " " + surname.strip())
-    
-    country = random.choice(open("Countries.txt").readlines())
-    print("You have been born in " + country)
-    print(" ")
-
 def calender():
     day = random.randint(1,28)
     month = random.randint(1,12)
@@ -64,7 +24,6 @@ def actor():
         print("The famous actor, " + male_name.strip() + " " + surname.strip() + ", " + action)   
     else:
         print("The famous actor, " + female_name.strip() + " " + surname.strip() + ", " + action)
-actor()
 
 #war + politics + actor calling
 def event():
@@ -93,6 +52,7 @@ def marriage():
         print(kids)
     else:
         print(" ")
+        
 #This selects a random number for death
 global ageno
 ageno = (randint(70,90))
@@ -100,6 +60,20 @@ ageno = (randint(70,90))
 
 
 def randomlife():
+    gender = (randint(1, 2))
+    surname = random.choice(open("Surnames.txt").readlines())
+
+    if gender == 1:
+        male_name = random.choice(open("MaleNames.txt").readlines())        
+        print("You are called " + male_name.strip() + " " + surname.strip())
+    
+    else:
+        female_name = random.choice(open("FemaleNames.txt").readlines())
+        print("You are called " + female_name.strip() + " " + surname.strip())
+    
+    country = random.choice(open("Countries.txt").readlines())
+    print("You have been born in " + country)
+    print(" ")
     age = 0
     calender()
     while age < ageno:
@@ -233,7 +207,6 @@ def randomlife():
     print("You died at the age of", int(age), " because of",str(death))
     print("You will be missed")
     
-randomlife()
 
 def customlife():
     age = 0
@@ -367,10 +340,31 @@ def customlife():
         death = random.choice(open("Death.txt").readlines())
     print("You died at the age of", int(age), " because of",str(death))
     print("You will be missed")
-    
-customlife()
 
 
+choicez = input("Would you like a custom game, or randomised game? \n"
+                              "1. Custom \n"
+                              "2. Random \n")
+while choicez != "1" and choicez != "2":
+    choicez = input("Would you like a custom game, or randomised game? \n"
+                              "1. Custom \n"
+                              "2. Random \n")
+if choicez == "1": #custom 
+    genderc = input("What gender would you like to be(M/F)? ").upper()
+    while genderc != "M" and genderc != "F":
+            genderc = input("What gender would you like to be(M/F)? ").upper()
+            if genderc == "M":
+                    gendercnum = 1
+            else:
+                    gendercnum = 2
+    cname = input("What would you like to be named: ")
+    csurname = input("What would you like your surname to be: ")
+    cyear = input("Please specify a year: ")
+    print("You are called " + cname + " " + csurname + " in the year " + cyear)
+    customlife()
+
+else:
+    randomlife()
 
 
 
