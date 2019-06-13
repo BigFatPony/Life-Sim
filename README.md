@@ -21,6 +21,6 @@ In progress:
 ⌂More unique lives
 ⌂Making the user decide on a random or custom game
 
-
+#Figure out a way to not fuck this program up while trying to solve an issue :)
 
 
