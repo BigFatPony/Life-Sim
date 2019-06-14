@@ -13,13 +13,14 @@ Currently it is able to do:
 ⌂Children
 ⌂Switching between political events and actor events
 ⌂War
+⌂Making the user decide on a random or custom game
 
 
 In progress:
 ⌂Figure out how to add randomised ACTIVE events
 ⌂More detailed lives
 ⌂More unique lives
-⌂Making the user decide on a random or custom game
+⌂Changing text files to a better file format
 
 #Figure out a way to not fuck this program up while trying to solve an issue :)
 
