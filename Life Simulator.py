@@ -5,7 +5,7 @@ print("Welcome to Aggie's Life Simulator")
 print("All these events are randomly generated")
 print(" ")
 
-    
+#Randomised calender date for randomised section    
 def calender():
     day = random.randint(1,28)
     month = random.randint(1,12)
@@ -57,8 +57,7 @@ def marriage():
 global ageno
 ageno = (randint(70,90))
 
-
-
+#Randomised life
 def randomlife():
     gender = (randint(1, 2))
     surname = random.choice(open("Surnames.txt").readlines())
@@ -77,6 +76,7 @@ def randomlife():
     age = 0
     calender()
     while age < ageno:
+        print("Age: " + str(age) + " years old")
        
         if age == 0:
             input("*Press Enter to age a year*")
@@ -211,7 +211,7 @@ def randomlife():
 def customlife():
     age = 0
     while age < ageno:
-       
+        print("Age: " + str(age) + " years old")
         if age == 0:
             input("*Press Enter to age a year*")
             age += 1
