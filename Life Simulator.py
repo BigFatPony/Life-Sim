@@ -57,6 +57,7 @@ def marriage():
 global ageno
 ageno = (randint(70,90))
 
+
 #Randomised life
 def randomlife():
     gender = (randint(1, 2))
@@ -105,7 +106,7 @@ def randomlife():
             age += 1
             input("*Press Enter to age a year*")
 
-        #Sexuality
+#Sexuality
         elif age == 14:
                 sexuality = input("What sexuality do you want to be: \n"
                               "1. Straight \n"
@@ -130,7 +131,7 @@ def randomlife():
             age += 1
             input("*Press Enter to age a year*")
 
-        #partner picking
+#partner picking
         elif age == 20:
                 if gender == 1:
                     if sexuality == 2:
@@ -169,7 +170,7 @@ def randomlife():
             age += 1
             input("*Press Enter to age a year*")
 
-        #Child naming
+#Child naming
         elif age == 30:
             bgender = (randint(1, 2))
             if bgender == 1:
@@ -189,7 +190,7 @@ def randomlife():
             age += 1
             input("*Press Enter to age a year*")
             
-        #Partner death    
+#Partner death    
         elif age == 80:
             death = random.choice(open("Death.txt").readlines())
             print ("Your partner," + partner.strip() + " ,has died from" + death)
@@ -206,8 +207,26 @@ def randomlife():
         death = random.choice(open("Death.txt").readlines())
     print("You died at the age of", int(age), " because of",str(death))
     print("You will be missed")
-    
 
+
+
+def picking():
+    global genderc
+    genderc = input("What gender would you like to be(M/F)? ").upper()
+    while genderc != "M" and gender != "F":
+            genderc = input("What gender would you like to be(M/F)? ").upper()
+            if genderc == "M":
+                    gendernum = 1
+            else:
+                    gendernum = 2
+    name = input("What would you like to be named: ")
+    surname = input("What would you like your surname to be: ")
+    year = input("Please specify a year: ")
+    print("You are called " + name + " " + surname + " in the year " + year)
+
+
+    
+#Custom version
 def customlife():
     age = 0
     while age < ageno:
@@ -239,7 +258,7 @@ def customlife():
             age += 1
             input("*Press Enter to age a year*")
 
-        #Sexuality
+#Sexuality
         elif age == 14:
                 sexuality = input("What sexuality do you want to be: \n"
                               "1. Straight \n"
@@ -264,9 +283,9 @@ def customlife():
             age += 1
             input("*Press Enter to age a year*")
 
-        #partner picking
+#partner picking
         elif age == 20:
-                if gender == 1:
+                if genderc == 1:
                     if sexuality == 2:
                         global partner
                         partner = random.choice(open("MaleNames.txt").readlines())
@@ -303,7 +322,7 @@ def customlife():
             age += 1
             input("*Press Enter to age a year*")
 
-        #Child naming
+#Child naming
         elif age == 30:
             bgender = (randint(1, 2))
             if bgender == 1:
@@ -323,7 +342,7 @@ def customlife():
             age += 1
             input("*Press Enter to age a year*")
             
-        #Partner death    
+#Partner death    
         elif age == 80:
             death = random.choice(open("Death.txt").readlines())
             print ("Your partner," + partner.strip() + " ,has died from" + death)
@@ -342,25 +361,15 @@ def customlife():
     print("You will be missed")
 
 
-choicez = input("Would you like a custom game, or randomised game? \n"
+choicez = input("Would you like a custom or randomised game? \n"
                               "1. Custom \n"
                               "2. Random \n")
 while choicez != "1" and choicez != "2":
-    choicez = input("Would you like a custom game, or randomised game? \n"
+    choicez = input("Would you like a custom or randomised game? \n"
                               "1. Custom \n"
                               "2. Random \n")
-if choicez == "1": #custom 
-    genderc = input("What gender would you like to be(M/F)? ").upper()
-    while genderc != "M" and genderc != "F":
-            genderc = input("What gender would you like to be(M/F)? ").upper()
-            if genderc == "M":
-                    gendercnum = 1
-            else:
-                    gendercnum = 2
-    cname = input("What would you like to be named: ")
-    csurname = input("What would you like your surname to be: ")
-    cyear = input("Please specify a year: ")
-    print("You are called " + cname + " " + csurname + " in the year " + cyear)
+if choicez == "1": #custom
+    picking()
     customlife()
 
 else:
