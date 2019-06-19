@@ -48,7 +48,10 @@ def event():
 def marriage():
     choice = (randint(0,5))
     with open("Marriage_Events.txt") as filef:
-        relationship = random.choice(filef.readlines())    
+        relationship_events = filef.readlines()
+        ref = random.randint(0, len(relationship_events)-1)
+        relationship = relationship_events[ref]
+        del relationship_events[ref]
     if choice == 0:
         print(relationship.strip())
     elif choice == 5:
@@ -110,7 +113,10 @@ def randomlife():
         elif age >= 4 and age < 12:
             print("The year is " + str(year))
             with open("Child_Passive.txt") as filem:
-                        child = random.choice(filem.readlines())
+                child_events = filem.readlines()
+                ref = random.randint(0, len(child_events)-1)
+                child = child_events[ref]
+                del child_events[ref]
             print(child.strip())
             event()
             age += 1
@@ -121,7 +127,10 @@ def randomlife():
         elif age >= 12 and age < 14:
             print("The year is " + str(year))
             with open("Teen_Passive.txt") as filen:
-                    teen = random.choice(filen.readlines())
+                teen_events = filen.readlines()
+                ref = random.randint(0, len(teen_events)-1)
+                teen = teen_events[ref]
+                del teen_events[ref]
             print(teen.strip())
             event()
             age += 1
@@ -150,7 +159,10 @@ def randomlife():
         elif age >= 15 and age < 20:
             print("The year is " + str(year))
             with open("Middle_Passive.txt") as fileo:
-                    middle = random.choice(fileo.readlines())
+                middle_events = fileo.readlines()
+                ref = random.randint(0, len(middle_events)-1)
+                middle = middle_events[ref]
+                del middle_events[ref]   
             print(middle.strip())
             event()        
             age += 1
@@ -181,7 +193,10 @@ def randomlife():
         elif age >= 21 and age < 25:
             print("The year is " + str(year))
             with open("Middle_Passive.txt") as fileo:
-                    middle = random.choice(fileo.readlines())
+                middle_events = fileo.readlines()
+                ref = random.randint(0, len(middle_events)-1)
+                middle = middle_events[ref]
+                del middle_events[ref]
             print(middle.strip())
             event()
             marriage()
@@ -198,7 +213,10 @@ def randomlife():
         elif age >= 26 and age < 30:
             print("The year is " + str(year))
             with open("Middle_Passive.txt") as fileo:
-                    middle = random.choice(fileo.readlines())
+                middle_events = fileo.readlines()
+                ref = random.randint(0, len(middle_events)-1)
+                middle = middle_events[ref]
+                del middle_events[ref]
             print(middle.strip())
             event()        
             age += 1
@@ -223,7 +241,10 @@ def randomlife():
         elif age >= 30 and age < 80:
             print("The year is " + str(year))
             with open("Old_Passive.txt") as filer:
-                    old = random.choice(filer.readlines())
+                old_events = filer.readlines()
+                ref = random.randint(0, len(middle_events)-1)
+                old = old_events[ref]
+                del old_events[ref]
             print(old.strip())
             event()         
             age += 1
@@ -242,7 +263,10 @@ def randomlife():
         elif age >= 80 and age < 90:
             print("The year is " + str(year))
             with open("Old_Passive.txt") as filer:
-                    old = random.choice(filer.readlines())
+                old_events = filer.readlines()
+                ref = random.randint(0, len(middle_events)-1)
+                old = old_events[ref]
+                del old_events[ref]
             print(old.strip())
             event()         
             age += 1
@@ -293,7 +317,10 @@ def customlife():
         
         elif age >= 4 and age < 12:
             with open("Child_Passive.txt") as filem:
-                        child = random.choice(filem.readlines())
+                child_events = filem.readlines()
+                ref = random.randint(0, len(child_events)-1)
+                child = child_events[ref]
+                del child_events[ref]
             print(child.strip())
             event()
             age += 1
@@ -302,7 +329,10 @@ def customlife():
         
         elif age >= 12 and age < 14:
             with open("Teen_Passive.txt") as filen:
-                    teen = random.choice(filen.readlines())
+                teen_events = filen.readlines()
+                ref = random.randint(0, len(teen_events)-1)
+                teen = teen_events[ref]
+                del teen_events[ref]
             print(teen.strip())
             event()
             age += 1
@@ -328,7 +358,10 @@ def customlife():
                                              
         elif age >= 15 and age < 20:
             with open("Middle_Passive.txt") as fileo:
-                    middle = random.choice(fileo.readlines())
+                middle_events = fileo.readlines()
+                ref = random.randint(0, len(middle_events)-1)
+                middle = middle_events[ref]
+                del middle_events[ref]   
             print(middle.strip())
             event()        
             age += 1
@@ -356,7 +389,10 @@ def customlife():
     
         elif age >= 21 and age < 25:
             with open("Middle_Passive.txt") as fileo:
-                    middle = random.choice(fileo.readlines())
+                middle_events = fileo.readlines()
+                ref = random.randint(0, len(middle_events)-1)
+                middle = middle_events[ref]
+                del middle_events[ref]
             print(middle.strip())
             event()
             marriage()
@@ -369,7 +405,10 @@ def customlife():
 
         elif age >= 26 and age < 30:
             with open("Middle_Passive.txt") as fileo:
-                    middle = random.choice(fileo.readlines())
+                middle_events = fileo.readlines()
+                ref = random.randint(0, len(middle_events)-1)
+                middle = middle_events[ref]
+                del middle_events[ref]
             print(middle.strip())
             event()        
             age += 1
@@ -390,7 +429,10 @@ def customlife():
         
         elif age >= 30 and age < 80:
             with open("Old_Passive.txt") as filer:
-                    old = random.choice(filer.readlines())
+                old_events = filer.readlines()
+                ref = random.randint(0, len(middle_events)-1)
+                old = old_events[ref]
+                del old_events[ref]
             print(old.strip())
             event()         
             age += 1
@@ -405,7 +447,10 @@ def customlife():
             
         elif age >= 80 and age < 90:
             with open("Old_Passive.txt") as filer:
-                    old = random.choice(filer.readlines())
+                old_events = filer.readlines()
+                ref = random.randint(0, len(middle_events)-1)
+                old = old_events[ref]
+                del old_events[ref]
             print(old.strip())
             event()         
             age += 1
@@ -430,12 +475,3 @@ if choicez == "1": #custom
 
 else:
     randomlife()
-
-
-
-
-
-
-
-
-
