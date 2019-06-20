@@ -14,7 +14,7 @@ Currently it is able to do:
 ⌂Switching between political events and actor events
 ⌂War
 ⌂Making the user decide on a random or custom game
-
+⌂Jobs
 
 In progress:
 ⌂Figure out how to add randomised ACTIVE events
