@@ -43,7 +43,7 @@ You went into debt.
 You went on a walk to the park.
 You threw up.
 You found that you have an adopted younger brother that you never knew you had.
-You called your child.
+You phoned your child.
 Your sister died.
 Your brother died.
 You went to the shop for milk.
@@ -56,5 +56,6 @@ You watched a film about war.
 You cried yourself to sleep from being lonely.
 You made a friend, someone you work with regularly. 
 A beloved pet died, leaving you grief-strickened.
-
-
+You broke your knee.
+You went to a cafe.
+You fed some cats.
