@@ -15,11 +15,7 @@ print(" ")
 def job():
     with open("Job_Events.txt") as file:
         job = random.choice(file.readlines())
-        
-    choice = (randint(0,4))
-    if choice == 0:
-        print(job)   
-    else:
+        print("You got hired as a" + job)
         print(" ")
 job()
    
@@ -94,7 +90,7 @@ def randomlife():
             print("You are called " + male_name.strip() + " " + surname.strip())    
     else:
             with open("FemaleNames.txt") as file:
-                female_name = random.choice(filej.readlines())
+                female_name = random.choice(file.readlines())
             print("You are called " + female_name.strip() + " " + surname.strip())
     country = random.choice(open("Countries.txt").readlines())
     print("You have been born in " + country)   #Didn't work properly with closing the textfile 
@@ -230,7 +226,7 @@ def randomlife():
             age +=1
             year +=1
 
-        elif age >= 23 and age < 25:
+        elif age >= 24 and age < 25:
             print("The year is " + str(year))
             with open("Middle_Passive.txt") as file:
                 middle_events = file.readlines()
@@ -428,7 +424,28 @@ def customlife():
                 input("*Press Enter to age a year*")
                 age += 1
     
-        elif age >= 21 and age < 25:
+        elif age >= 21 and age < 23:
+            with open("Middle_Passive.txt") as file:
+                middle_events = file.readlines()
+                ref = random.randint(0, len(middle_events)-1)
+                middle = middle_events[ref]
+                del middle_events[ref]
+            print(middle.strip())
+            event()
+            marriage()
+            age += 1
+            input("*Press Enter to age a year*")
+            
+        elif age == 23:
+            with open("Jobs.txt") as file:
+                job_events = file.readlines()
+                ref = random.randint(0, len(job_events)-1)
+                job = job_events[ref]
+                del job_events[ref]
+            print(job.strip())
+            age +=1
+
+        elif age >= 24 and age < 25:
             with open("Middle_Passive.txt") as file:
                 middle_events = file.readlines()
                 ref = random.randint(0, len(middle_events)-1)
@@ -444,17 +461,6 @@ def customlife():
             print("You have married " + partner)
             age += 1
 
-        elif age >= 26 and age < 30:
-            with open("Middle_Passive.txt") as file:
-                middle_events = file.readlines()
-                ref = random.randint(0, len(middle_events)-1)
-                middle = middle_events[ref]
-                del middle_events[ref]
-            print(middle.strip())
-            event()        
-            age += 1
-            input("*Press Enter to age a year*")
-
 #Child naming
         elif age == 30:
             bgender = (randint(1, 2))
@@ -468,7 +474,7 @@ def customlife():
                     print("You have a son named " + child)
             age += 1
         
-        elif age >= 30 and age < 80:
+        elif age >= 31 and age < 80:
             with open("Old_Passive.txt") as file:
                 old_events = file.readlines()
                 ref = random.randint(0, len(middle_events)-1)
