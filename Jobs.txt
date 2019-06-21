@@ -1,16 +1,42 @@
-You got hired as a Taxi driver.
-You got hired as a Foreman.
-You got hired as a Janitor.
-You got hired as a Programmer.
-You got hired as a Teacher.
-You got hired as a Politician in the Labour party.
-You got hired as a Politician in the Conservative party.
-You got hired as a Graphic Desingeer.
-You got hired as a Bin Man.
-You got hired as a Grass Cutter.
-You got hired as a Gardener.
-You got hired as a Technician.
-You got hired as a Car Designer.
-You got hired as a Pilot.
-You got hired as a Movie Director.
-You got hired as a Camera man.
+Taxi driver.
+Foreman.
+Janitor.
+Programmer.
+Teacher.
+Politician in the Labour party.
+Politician in the Conservative party.
+Graphic Desingeer.
+Bin Man.
+Grass Cutter.
+Gardener.
+Technician.
+Car Designer.
+Pilot.
+Movie Director.
+Camera man.
+Fire Fighter.
+Lawyer.
+Doctor.
+Police Officer.
+Terrorist.
+Youtuber.
+Soldier.
+Priest.
+Actor.
+Software Developer.
+Dentist.
+Scientist.
+Physical Therapist.
+Translator.
+Accountant.
+Body Builder.
+Influencer.
+Engineer.
+Gardener.
+Psychologist.
+Builder.
+Opticitan.
+Plumber.
+Vet.
+Paramedic.
+Therapist.

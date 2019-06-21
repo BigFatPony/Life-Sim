@@ -1,9 +1,9 @@
 import random
 from random import randint
-print(" ")
-print("Welcome to Aggie's Life Simulator")
-print("All these events are randomly generated")
-print(" ")
+print(" \n"
+      "Welcome to Aggie's Life Simulator \n"
+      "All these events are randomly generated \n"
+      " \n")
 
 #IDEA FOR RANDOM EVENTS
 #PUT THE IF STATEMENTS INSIDE A FUNCTION
@@ -15,9 +15,7 @@ print(" ")
 def job():
     with open("Job_Events.txt") as file:
         job = random.choice(file.readlines())
-        print("You got hired as a" + job)
-        print(" ")
-job()
+        print(job)
    
 #Randomised actor names + events
 def actor():
@@ -108,6 +106,7 @@ def randomlife():
        
         if age == 0:
             input("*Press Enter to age a year*")
+            print(" ")
             age += 1
         
         elif age < 4:
@@ -119,6 +118,7 @@ def randomlife():
             age += 1
             year += 1
             input("*Press Enter to age a year*")
+            print(" ")
 
         
         elif age >= 4 and age < 12:
@@ -133,6 +133,8 @@ def randomlife():
             age += 1
             year += 1
             input("*Press Enter to age a year*")
+            print(" ")
+
 
         
         elif age >= 12 and age < 14:
@@ -147,6 +149,8 @@ def randomlife():
             age += 1
             year += 1
             input("*Press Enter to age a year*")
+            print(" ")
+
 
 #Sexuality
         elif age == 14:
@@ -163,8 +167,12 @@ def randomlife():
                     age += 1
                 else:
                     print("You have come out as Gay.")
-                input("*Press Enter to Age a year*")
                 age += 1
+
+            
+                input("*Press Enter to age a year*")
+                print(" ")
+  
 
                                              
         elif age >= 15 and age < 20:
@@ -179,6 +187,7 @@ def randomlife():
             age += 1
             year += 1
             input("*Press Enter to age a year*")
+            print(" ")
 
 #partner picking
         elif age == 20:
@@ -199,6 +208,7 @@ def randomlife():
                         partner = random.choice(open("FemaleNames.txt").readlines())
                         print("You started to date: " + partner)
                 input("*Press Enter to age a year*")
+                print(" ")
                 age += 1
     
         elif age >= 21 and age < 23:
@@ -214,6 +224,7 @@ def randomlife():
             age += 1
             year += 1
             input("*Press Enter to age a year*")
+            print(" ")
             
         elif age == 23:
             print("The year is " + str(year))
@@ -222,9 +233,11 @@ def randomlife():
                 ref = random.randint(0, len(job_events)-1)
                 job = job_events[ref]
                 del job_events[ref]
-            print(job.strip())
+            print("You got hired as a " + job.strip())
             age +=1
             year +=1
+            input("*Press Enter to age a year*")
+            print(" ")
 
         elif age >= 24 and age < 25:
             print("The year is " + str(year))
@@ -246,6 +259,8 @@ def randomlife():
             print("You have married " + partner)
             age += 1
             year += 1
+            input("*Press Enter to age a year*")
+            print(" ")
 
         elif age >= 26 and age < 30:
             print("The year is " + str(year))
@@ -259,6 +274,7 @@ def randomlife():
             age += 1
             year += 1
             input("*Press Enter to age a year*")
+            print(" ")
 
 #Child naming
         elif age == 30:
@@ -274,6 +290,8 @@ def randomlife():
                     print("You have a son named " + child)
             age += 1
             year += 1
+            input("*Press Enter to age a year*")
+            print(" ")            
         
         elif age >= 30 and age < 80:
             print("The year is " + str(year))
@@ -287,12 +305,13 @@ def randomlife():
             age += 1
             year += 1
             input("*Press Enter to age a year*")
+            print(" ")
             
 #Partner death    
         elif age == 80:
             print("The year is " + str(year))
             with open("Death.txt") as file:
-                    death = random.choice(files.readline())
+                    death = random.choice(file.readline())
             print ("Your partner," + partner.strip() + " ,has died from" + death)
             age += 1
             year += 1
@@ -309,6 +328,7 @@ def randomlife():
             age += 1
             year += 1
             input("*Press Enter to age a year*")
+            print(" ")
             
     else:
         death = random.choice(open("Death.txt").readlines())
@@ -350,6 +370,7 @@ def customlife():
             event()
             age += 1
             input("*Press Enter to age a year*")
+            print(" ")
 
         
         elif age >= 4 and age < 12:
@@ -362,6 +383,7 @@ def customlife():
             event()
             age += 1
             input("*Press Enter to age a year*")
+            print(" ")
 
         
         elif age >= 12 and age < 14:
@@ -374,6 +396,7 @@ def customlife():
             event()
             age += 1
             input("*Press Enter to age a year*")
+            print(" ")
 
 #Sexuality
         elif age == 14:
@@ -389,7 +412,8 @@ def customlife():
                     age += 1
                 else:
                     print("You have come out as Gay.")
-                input("*Press Enter to Age a year*")
+                input("*Press Enter to age a year*")
+                print(" ")
                 age += 1
 
                                              
@@ -403,6 +427,7 @@ def customlife():
             event()        
             age += 1
             input("*Press Enter to age a year*")
+            print(" ")
 
 #partner picking
         elif age == 20:
@@ -422,6 +447,7 @@ def customlife():
                         partner = random.choice(open("FemaleNames.txt").readlines())
                         print("You started to date: " + partner)
                 input("*Press Enter to age a year*")
+                print(" ")
                 age += 1
     
         elif age >= 21 and age < 23:
@@ -435,6 +461,7 @@ def customlife():
             marriage()
             age += 1
             input("*Press Enter to age a year*")
+            print(" ")
             
         elif age == 23:
             with open("Jobs.txt") as file:
@@ -444,6 +471,8 @@ def customlife():
                 del job_events[ref]
             print(job.strip())
             age +=1
+            input("*Press Enter to age a year*")
+            print(" ")
 
         elif age >= 24 and age < 25:
             with open("Middle_Passive.txt") as file:
@@ -456,10 +485,13 @@ def customlife():
             marriage()
             age += 1
             input("*Press Enter to age a year*")
+            print(" ")
             
         elif age == 25:
             print("You have married " + partner)
             age += 1
+            input("*Press Enter to age a year*")
+            print(" ")
 
 #Child naming
         elif age == 30:
@@ -473,7 +505,9 @@ def customlife():
                     child = input("What would you like to name him:")
                     print("You have a son named " + child)
             age += 1
-        
+            input("*Press Enter to age a year*")
+            print(" ")
+            
         elif age >= 31 and age < 80:
             with open("Old_Passive.txt") as file:
                 old_events = file.readlines()
@@ -484,11 +518,12 @@ def customlife():
             event()         
             age += 1
             input("*Press Enter to age a year*")
+            print(" ")
             
 #Partner death    
         elif age == 80:
-            with open("Death.txt") as files:
-                    death = random.choice(files.readlines())
+            with open("Death.txt") as file:
+                    death = random.choice(file.readlines())
             print ("Your partner," + partner.strip() + " ,has died from" + death)
             age += 1
             
@@ -502,6 +537,7 @@ def customlife():
             event()         
             age += 1
             input("*Press Enter to age a year*")
+            print(" ")
             
     else:
         death = random.choice(open("Death.txt").readlines())
