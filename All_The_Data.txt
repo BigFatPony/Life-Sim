@@ -1,0 +1,1116 @@
+#Baby
+You bit your mother.
+Your mother dropped you.
+Your father called you an ugly baby.
+You drank milk.
+You pooped.
+You slept.
+You cried.
+Your mother got a new job.
+Your mother gave birth to another baby.
+You learned to talk.
+You learned to walk.
+You fell over.
+You hugged your mother.
+
+#Child
+You have been attacked by a dog.
+You caught the flu.
+You read a book.
+You caught a cold.
+You watched a bad movie with your friends
+You met a new person.
+You saw a stray dog.
+You watched a good movie with your friends.
+You got a new toy for your birthday.
+You realised Santa isn't real.
+You got £2 from the tooth fairy.
+You got a new BMX for christmas.
+You started drawing with oil paint.
+You swallowed a lego and almost died.
+You tripped and broke your leg.
+You tried playing pokemon and got addicted.
+You bought a Pikachu teddy.
+Your father hit you with a slipper for breaking a vase.
+You watched a trailer for a new cartoon.
+You saw Peppa Parrot.
+Your father bought you a drawing book.
+
+#Teen
+You got your hair pulled .
+A girl laughed at your spots.
+You passed your math class.
+You failed you math class.
+You passed your english class.
+You failed your english class.
+You peed your pants.
+You have been attacked by a dog.
+You caught the flu.
+You read a book.
+You caught a cold.
+You watched a bad movie with your friends.
+You met a new person.
+You missed the bus.
+You found £10.
+Your phone broke.
+You saw a stray dog.
+You watched a good movie with your friends.
+You went to a party.
+You lost a friend.
+You lost a quiz.
+You fell in love and thought about marriage.
+You killed a man.
+You committed mass genocide.
+You learned the fine art of negotiation and compromise while working for a merchant.
+You watched your favourite show: Trek Wars.
+A famous actor, Luke Barker, overdosed on parma violets.
+Your mother cried over your failures.
+Your dad laughed because you broke your leg.
+You are a disappointment to your friends and family.
+You discovered a new game: League of Rockets.
+You became diagnosed with gingeritis.
+You gained access to a private tutor, who built your knowledge.
+You ate your toenails.
+You tried human meat for the first time. It was good!
+Your bestfriend blocked you.
+You got stabbed with a spork.
+You discovered a new game: Rainbow 7 Siege.
+You watched your favourite show: The Stellaris.
+Some random girl slagged you off in her twitch stream.
+You cried yourself to sleep.
+You studied.
+You failed your exams.
+You played video games.
+You tripped.
+You went to a shop.
+You got beat up for looking at someone.
+Someone stole your purse before you went on a bus.
+Someone pays for your coffee at Bucks Star.
+You dropped your phone, and a stranger gives you it.
+Someone at Bucks Star spells your name wrong.
+Guugle Play gives you 50p for completing a survey about cats.
+A seagull attacked you while you were trying to eat your chips.
+You argued with you mother.
+You found an attractive person from your class.
+You were rejected by your crush.
+
+#Middle
+You ate a meal at a cafe.
+You got mugged and lost £50.
+Your phone broke.
+You saw a stray dog.
+You watched a good movie with your friends.
+You went to a party.
+You lost a friend.
+You lost a quiz.
+You killed a man.
+You have been attacked by a dog.
+You caught the flu.
+You read a book.
+You caught a cold.
+You watched a bad movie with your friends.
+You met a new person.
+You missed the bus.
+You spent several months engaged in formal study, sharpening your wits.
+Your car broke down.
+Your mother died.
+Your father died.
+Your older sister moved out.
+You went to the gym.
+A rigorous stretch of military training strengthened you.
+You made a new friend.
+You found £10.
+You made a friend, someone you work with regularly. 
+You committed mass genocide.
+You watched your favourite show: Trek Wars.
+A famous actor, Luke Barker, overdosed on parma violets.
+Your mother cried over your failures.
+Your dad laughed because you broke your leg.
+You are a disappointment to your friends and family.
+You discovered a new game: League of Rockets.
+You became diagnosed with gingeritis.
+You ate your toenails.
+You tried human meat. It was good!
+Your bestfriend blocked you.
+You got stabbed with a spork.
+You discovered a new game: Rainbow 7 Siege.
+You watched your favourite show: The Stellaris.
+Some random girl slagged you off in her twitch stream.
+You bought a boardgame.
+You found an attractive person.
+You tripped.
+You went to a shop.
+You got beat up for looking at someone.
+Someone stole your purse before you went on a bus.
+Someone pays for your coffee at Bucks Star.
+You dropped your phone, and a stranger gives you it.
+Someone at Bucks Star spells your name wrong.
+Guugle Play gives you 50p for completing a survey about cats.
+A seagull attacked you while you were trying to eat your chips.
+You read a newspaper article about a possible world war.
+
+#Old
+You played Bingo and won.
+You crossed the road.
+You went to a church.
+You saw a horse.
+You went to a pool.
+You made an enemy.
+You slipped in your bath.
+You made a new friend.
+Your friend got cancer.
+A famous Priest, Thomas Jeeves, died in a fire.
+You became a grandparent. Congratulations!
+You forgot your own name.
+Your partner died.
+You bought a potted cactus
+You went to the hospital
+You went to the dentist.
+You read a book.
+Your older sister died.
+You lost a quiz.
+A famous actor, Luke Barker, overdosed on parma violets.
+You tried human meat. It was good!
+You tried becoming vegan.
+You tried becoming vegeterian.
+You practised Yoga.
+You watched a film about WW2.
+You ate some goat cheese.
+You drank wine at church.
+You went to the market.
+You saw your grandchildren.
+You bought a cat.
+You bought a house plant.
+Tibbles the fish died.
+You got salmonela.
+You donated to charity for children with no mobile phones.
+You dontated to charity for black kids.
+You went to your parents grave.
+You went to the hospital for a check up.
+You drew.
+You became addicted to gambling.
+You adopted a stray dog.
+A holy woman visited your home region, and you spent several months as a disciple, bolstering your faith.
+You went into debt.
+You went on a walk to the park.
+You threw up.
+You found that you have an adopted younger brother that you never knew you had.
+You phoned your child.
+Your sister died.
+Your brother died.
+You went to the shop for milk.
+You found £5 laying on the pavement.
+You watched TV.
+You started to sew.
+You sewed a hat.
+You sewed some socks.
+You watched a film about war.
+You cried yourself to sleep from being lonely.
+You made a friend, someone you work with regularly. 
+A beloved pet died, leaving you grief-strickened.
+You broke your knee.
+You went to a cafe.
+You fed some cats.
+You tripped.
+You went to a shop.
+You got beat up for looking at someone.
+Someone stole your purse before you went on a bus.
+Someone pays for your coffee at Bucks Star.
+You dropped your phone, and a stranger gives you it.
+Someone at Bucks Star spells your name wrong.
+Guugle Play gives you 50p for completing a survey about cats.
+A seagull attacked you while you were trying to eat your chips.
+Your cat died.
+You adopted a stray parrot.
+You read a news article about Abortion.
+
+#ActorActions
+has died.
+was found stealing a car.
+won an oscar.
+was murdered.
+made a new TV show.
+was sent to prison.
+became a feminist.
+became vegan.
+bought the company SoftMicro.
+created new perfume: Green Odour.
+created new perfume: The escape.
+cheated on their partner.
+had a child.
+had another child.
+adopted a child.
+bought a yacht.
+got divorced.
+got verified on twitter.
+got verified on instagram.
+got verified on facebook.
+got verified on youtube.
+donated to charity.
+overdosed.
+
+#ParentEvents
+Your child brought home a drawing of you. It was hideous!
+Your child bought you a birthday present.
+Your child got an F on their report card.
+Your child got an A on their report card.
+
+#Marriage
+Your partner started watching a new show.
+You and your partner argued.
+Your partner had a one night stand with another person.
+You and your beloved had a photo session.
+You and your partner went on a trip to Japan.
+You and your partner went on a trip to Africa.
+You and your partner went on a trip to Russia.
+You and your partner went on a trip to China.
+You and your partner went on a trip to France.
+You and your partner went on a trip to Poland.
+You and your partner went hiking.
+You cheated on your partner.
+You and your partner had a three-way.
+You are your partner had an argument, so you slept at a friends house.
+You and your partner went to a disco.
+
+#War
+America bombed ISIS.
+Poland declared war on Japan.
+Scotland declared war on England.
+Wales declared war on Ireland.
+Japan declared war on the UK.
+Ukraine made an alliance with Russia and became one nation.
+Hungary took over France.
+ISIS bombed Germany.
+Germany is in ruins.
+America becan working with Aliens, and declared WW3.
+Saudi Arabia declared war on American Samoa.
+Nepal declared war on Greece.
+Palau declared war on United Arab Emirates.
+Andorra declared war on Malaysia.
+China declared war on Malta.
+Somalia declared war on Germany.
+Colombia declared war on Uruguay.
+Mexico declared war on Italy.
+Peru declared war on Cambodia.
+Greece declared war on Poland.
+Palau declared war on Guam.
+Qatar declared war on Dominican Republic.
+South Africa declared war on Syria.
+Lxembourg declared war on Guinea.
+Libya declared war on Western Sahara.
+Lithuania declared war on Bermuda.
+Egypt declared war on Ireland.
+United Kingdom declared war on Croatia.
+Singapore declared war on Philippnes.
+
+#Death
+brain cancer.
+liver failure.
+anal cancer.
+brain cancer.
+lung cancer.
+paralysis.
+a car accident.
+a crazy old man with a chainsaw.
+overdosing on drugs.
+a heart attack.
+burning alive in your house.
+
+#JobEvents
+You got a promotion.
+You got a 3% raise.
+You got a 20% raise.
+You got a 6% raise.
+You got a 5% raise.
+You got a 1% raise.
+You got fired.
+You began looking for a better job.
+Your boss made a romantic gesture for a possible promotion.
+
+#Jobs
+Taxi driver.
+Foreman.
+Janitor.
+Programmer.
+Teacher.
+Politician in the Labour party.
+Politician in the Conservative party.
+Graphic Desingeer.
+Bin Man.
+Grass Cutter.
+Gardener.
+Technician.
+Car Designer.
+Pilot.
+Movie Director.
+Camera man.
+Fire Fighter.
+Lawyer.
+Doctor.
+Police Officer.
+Terrorist.
+Youtuber.
+Soldier.
+Priest.
+Actor.
+Software Developer.
+Dentist.
+Scientist.
+Physical Therapist.
+Translator.
+Accountant.
+Body Builder.
+Influencer.
+Engineer.
+Gardener.
+Psychologist.
+Builder.
+Opticitan.
+Plumber.
+Vet.
+Paramedic.
+Therapist.
+
+#Politics
+A new movie has come out: Detective Squirtle!
+Donald Trump has built a wall around The White House.
+The Queen of England has passed away.
+A new disease began to spread in Argentina: The yellow plague.
+Vampires are confirmed in Africa.
+A tribe of cannibals has been found at an Island near America.
+The UK has finally left the EU.
+A Cactus God statue was found in Egypt.
+Terrorist attacks have occured in Ireland.
+Scotland has left the UK.
+Africa has another drought.
+The sea levels have increased.
+Ice began falling from the sky in May.
+The new Olympics will be hosted in Jerusalem.
+A new faith has dominated the globe- The Flying Spaghetti Monster
+Aliens visited Earth.
+Aliens took over America.
+Hillary Clinton has passed away.
+Incest became legal in Alabama
+First Alien president in America.
+Jeremy Corybn has come out as a communist. 
+UKIP leads in the polls by 20 points above the conservatives. 
+
+#Countries
+Afghanistan
+Albania
+Algeria
+Andorra
+Angola
+Antigua and Barbuda
+Argentina
+Armenia
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bhutan
+Bolivia
+Bosnia and Herzegovina
+Botswana
+Brazil
+Brunei
+Bulgaria
+Burkina Faso
+Burma
+Burundi
+Cabo Verde
+Cambodia
+Cameroon
+Canada
+Central African Republic
+Chad
+Chile
+China
+Colombia
+Comoros
+Costa Rica
+Côte d’Ivoire
+Croatia
+Cuba
+Cyprus
+Czechia
+Democratic Republic of the Congo
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Eswatini
+Ethiopia
+Fiji
+Finland
+France
+Gabon
+Gambia
+Georgia
+Germany
+Ghana
+Greece
+Grenada
+Guatemala
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Holy See
+Honduras
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Israel
+Italy
+Jamaica
+Japan
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Mauritania
+Mauritius
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Morocco
+Mozambique
+Namibia
+Nauru
+Nepal
+Netherlands
+New Zealand
+Nicaragua
+Niger
+Nigeria
+North Korea
+North Macedonia
+Norway
+Oman
+Pakistan
+Palau
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Poland
+Portugal
+Qatar
+Republic of the Congo
+Romania
+Russia
+Rwanda
+Saint Kitts and Nevis
+Saint Lucia
+Saint Vincent and the Grenadines
+Samoa
+San Marino
+São Tomé and Príncipe
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Korea
+South Sudan
+Spain
+Sri Lanka
+Sudan
+Suriname
+Sweden
+Switzerland
+Syria
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Timor-Leste
+Togo
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Tuvalu
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom
+Uruguay
+Uzbekistan
+Vanuatu
+Venezuela
+Vietnam
+Yemen
+Zambia
+Zimbabwe
+
+#MaleNames
+Duncan
+Finlay
+Jonathan
+Harry
+Luke
+Donte
+Curtis
+Kane
+Ed
+Jordan
+Markus
+Lukan
+Edward
+Jake
+Lewis
+Jack
+Stephen
+Oliver
+George
+Marko
+Edward
+Noah
+Charlie
+Samuel
+Jacob
+Benjamin
+Alfie
+Alfred
+Oscar
+Julian
+Kian
+Warren
+Mark
+Nathan
+Simon
+Montgeometry
+Peter
+Daniel
+Adolf
+Karl
+Brian
+Steve
+Paul
+Donald
+Barney
+Bernie
+Michael
+Keith
+Barry
+Phil
+Gary
+Jimjom
+Kanye
+Bob
+Orangutang
+Ching
+Chong
+William
+Thomas
+Gene
+Jean-Luc
+Geordi
+Maximus
+Max
+Rodney
+Valentine
+Alfred
+Ellis
+Clifford
+Hershel
+Damian
+Brendon
+Allan
+Art
+Zachary
+Ernie
+Tracey
+Maurice
+Chauncey
+Max
+Enoch
+Ike
+Wilburn
+Irvin
+Darrel
+Antione
+Winston
+Marcus
+Mariano
+Phil
+Oliver
+Joesph
+Ben
+Abraham
+Curtis
+Gabriel
+Federico
+Bob
+Ian
+Darrin
+Mitchell
+Sid
+Joan
+Brice
+Edison
+Sylvester
+Alexis
+Nolan
+Jules
+Booker
+Jamey
+Andreas
+Jackie
+Mitch
+Shane
+
+#FemaleNames
+Olivia
+Anna
+Isabelle
+Eve
+Mia
+Paige
+Monica
+Victoria
+Kate
+Susan
+Maya
+Ellie
+Robin
+Grace
+Lily
+Dora
+Kelley
+Alara
+Sophie
+Luna
+Kim
+Chloe
+Lily
+Alexandra
+Maxine
+Elizabeth
+Samantha
+Ziel
+Ezri
+Jadzia
+Morgan
+Ada
+Hannah
+Zofia
+Cara
+Adria
+Paula
+Crystal
+Cardine
+Catherine
+Millie
+Jackie
+Karen
+Charlie
+Emily
+Lampshade
+Theresa
+Michaela
+Bertha
+Gertrude
+Beatrice
+Agata
+Agatha
+Kloe
+Kim
+Kendall
+Carole
+Sarah
+Sara
+Sharon
+Claire
+Kathrine
+Deanna
+Amy
+Samantha
+Zoe
+Zoey
+Kira
+Karie
+Yelena
+Terese
+Loan
+Julienne
+Jolene
+Pattie
+Takisha
+Veronique
+Drema
+Sueann
+Kellie
+Sherrie
+Enriqueta
+Millicent
+Patti
+Somer
+Cathryn
+Ladawn
+Marisol
+Melodi
+Glenda
+Roni
+Tammy
+Renae
+Samella
+Carole
+Lovetta
+Pansy
+Maude
+Eilene
+Jenine
+Jannet
+Dot
+Meri
+Helen
+Renata
+Phung
+Daphne
+Tamala
+Myrta
+Selma
+Alma
+Deann
+Sonia
+Tamica
+Tara
+Celena
+Celsa
+Qiana
+
+#Surnames
+Sisko	
+Brown	
+Williams
+Flaim
+Griffin	
+Jones	
+Mercer
+Sables	
+Smith	
+Bashir	
+Dax	
+Davis	
+Miller	
+Green	
+Wilson	
+House	
+Johnson	
+Martin	
+Shalaba
+Butler	
+Gray
+Eaton
+Coates
+Nelson	
+Caulfield	
+Parker	
+Stark	
+Hayes	
+Cook	
+Jefferson
+Barker	
+Bell	
+Young	
+Hall	
+Jeeves
+Stewart	
+Price	
+Graham
+Stevenson
+Chong
+Ching
+Hitler
+Stalin
+Lenin
+Mussolini
+Potts
+Hawking
+Porker
+Wood
+McRoy
+Harhoff
+Messi
+Ronaldo
+Bamford
+Bamforth
+Saville
+Jackson
+Presley
+Mercury
+Eriksen
+Son
+Kane
+Newton
+Marquis
+Coppinger
+May
+Sadlier
+Wilks
+Jansson
+McKay
+Riker
+Picard
+Burnham
+Tyler
+Pike
+Page
+Winch
+Croft
+Birling
+Bones
+Kirk
+Moore
+Arnold
+Azod
+Olson
+Brandt
+Young
+Santana
+Rasmussen
+Norris
+Pace
+Lindsey
+Padilla
+Vargas
+Day
+Baker
+Chan
+Singh
+Berry
+Dyer
+Mathews
+Gross
+Marks
+Summers
+Hood
+Potts
+Noble
+Gentry
+Carney
+Gallagher
+Parks
+Good
+Lewis
+Marshall
+Tapia
+Wallace
+Glenn
+Werner
+Mckee
+Nguyen
+Frye
+Gilmore
+Kerr
+Haney
+Franklin
+Arellano
+Velasquez
+Roy
+Peterson
+Yoder
+Aguilar
+Goodman
+Greer
+Nolan
+Edwards
+Bray
+Proctor
+Barrera
+Fuller
+Branch
+Meyers
+Klein
+Simmons
+Pugh
+Miranda
+Ball
+Stone
+Burton
+Bush
+Reyes
+Jensen
+Navarro
+Bradshaw
+Gill
+Bowman
+Stark
+Shields
+Archer
+Fletcher
+Duke
+Winters
+Andrade
+Booth
+Watts
+Castro
+Liu
+Cannon
+Walker
+Solomon
+Pratt
+Harvey
+Hall
+Merritt
+Koch
+Carson
+Lester
+Murray
+Benjamin
+Mayo
+Freeman
+Suarez
+Payne
+Melendez
+Mullins
+Delacruz
+Cabrera
+Hodges
+York
+Daniels
+Choi
+Williamson
+Rodriguez
+House
+Reid
+Callahan
+Henry
+Holder
+Huff
+Cantu
+Hurley
+Saunders
+Chang
+Woods
+Bright
+Carter
+Alexander
+Donaldson
+Benton
+Schneider
+Black
+Roberts
+Cameron
+Wilcox
+Houston
+Conrad
+Fisher
+Sims
+Blair
+Henderson
+Lloyd
+Garrison
+Doyle
+Hess
+Sandoval
+Allison
+Nicholson
+Moran
+Christian
+Weaver
+Mendoza
+Sheppard
+Beck
+Barker
+Stevens
+Melton
+Tyler
+Watkins
+Powers
+Hull
+Griffin
+Reeves
+Rogers
+Stout
+Coleman
+Sutton
+Estrada
+Leonard
+Ruiz
+Blevins
+Madden
+Banks
+Lam
+Davis
+Willis
+Turner
+Vang
+Martin
+Richardson
+Hendricks
+Greene
+Davila
+Mcfarland
+Joseph
+Soto
+Maynard
+Cervantes
+Carpenter
+Gillespie
+Chase
+Villa
+Sloan
+Mcdaniel
+Cook
+Mccoy
+Escobar
+Bradley
+Burch
+Mcguire
+Buchanan
+Cantrell
+Kaiser
+Pena
+Combs
+Haley
