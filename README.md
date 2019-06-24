@@ -1,3 +1,7 @@
-# Life-Sim
-This project is going to be a text based life simulator
+# Life-Sim-Testing
 
+
+
+This is testing for Aggie's Life Sim
+
+Currently testing: Reading from one textfile 
