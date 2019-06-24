@@ -12,7 +12,6 @@ You learned to talk.
 You learned to walk.
 You fell over.
 You hugged your mother.
-
 #Child
 You have been attacked by a dog.
 You caught the flu.
@@ -35,7 +34,6 @@ Your father hit you with a slipper for breaking a vase.
 You watched a trailer for a new cartoon.
 You saw Peppa Parrot.
 Your father bought you a drawing book.
-
 #Teen
 You got your hair pulled .
 A girl laughed at your spots.
@@ -93,7 +91,6 @@ A seagull attacked you while you were trying to eat your chips.
 You argued with you mother.
 You found an attractive person from your class.
 You were rejected by your crush.
-
 #Middle
 You ate a meal at a cafe.
 You got mugged and lost £50.
@@ -148,7 +145,6 @@ Someone at Bucks Star spells your name wrong.
 Guugle Play gives you 50p for completing a survey about cats.
 A seagull attacked you while you were trying to eat your chips.
 You read a newspaper article about a possible world war.
-
 #Old
 You played Bingo and won.
 You crossed the road.
@@ -223,55 +219,6 @@ A seagull attacked you while you were trying to eat your chips.
 Your cat died.
 You adopted a stray parrot.
 You read a news article about Abortion.
-
-#ActorActions
-has died.
-was found stealing a car.
-won an oscar.
-was murdered.
-made a new TV show.
-was sent to prison.
-became a feminist.
-became vegan.
-bought the company SoftMicro.
-created new perfume: Green Odour.
-created new perfume: The escape.
-cheated on their partner.
-had a child.
-had another child.
-adopted a child.
-bought a yacht.
-got divorced.
-got verified on twitter.
-got verified on instagram.
-got verified on facebook.
-got verified on youtube.
-donated to charity.
-overdosed.
-
-#ParentEvents
-Your child brought home a drawing of you. It was hideous!
-Your child bought you a birthday present.
-Your child got an F on their report card.
-Your child got an A on their report card.
-
-#Marriage
-Your partner started watching a new show.
-You and your partner argued.
-Your partner had a one night stand with another person.
-You and your beloved had a photo session.
-You and your partner went on a trip to Japan.
-You and your partner went on a trip to Africa.
-You and your partner went on a trip to Russia.
-You and your partner went on a trip to China.
-You and your partner went on a trip to France.
-You and your partner went on a trip to Poland.
-You and your partner went hiking.
-You cheated on your partner.
-You and your partner had a three-way.
-You are your partner had an argument, so you slept at a friends house.
-You and your partner went to a disco.
-
 #War
 America bombed ISIS.
 Poland declared war on Japan.
@@ -302,31 +249,53 @@ Lithuania declared war on Bermuda.
 Egypt declared war on Ireland.
 United Kingdom declared war on Croatia.
 Singapore declared war on Philippnes.
-
-#Death
-brain cancer.
-liver failure.
-anal cancer.
-brain cancer.
-lung cancer.
-paralysis.
-a car accident.
-a crazy old man with a chainsaw.
-overdosing on drugs.
-a heart attack.
-burning alive in your house.
-
-#JobEvents
-You got a promotion.
-You got a 3% raise.
-You got a 20% raise.
-You got a 6% raise.
-You got a 5% raise.
-You got a 1% raise.
-You got fired.
-You began looking for a better job.
-Your boss made a romantic gesture for a possible promotion.
-
+#Politics
+A new movie has come out: Detective Squirtle!
+Donald Trump has built a wall around The White House.
+The Queen of England has passed away.
+A new disease began to spread in Argentina: The yellow plague.
+Vampires are confirmed in Africa.
+A tribe of cannibals has been found at an Island near America.
+The UK has finally left the EU.
+A Cactus God statue was found in Egypt.
+Terrorist attacks have occured in Ireland.
+Scotland has left the UK.
+Africa has another drought.
+The sea levels have increased.
+Ice began falling from the sky in May.
+The new Olympics will be hosted in Jerusalem.
+A new faith has dominated the globe- The Flying Spaghetti Monster
+Aliens visited Earth.
+Aliens took over America.
+Hillary Clinton has passed away.
+Incest became legal in Alabama
+First Alien president in America.
+Jeremy Corybn has come out as a communist. 
+UKIP leads in the polls by 20 points above the conservatives. 
+#ActorActions
+has died.
+was found stealing a car.
+won an oscar.
+was murdered.
+made a new TV show.
+was sent to prison.
+became a feminist.
+became vegan.
+bought the company SoftMicro.
+created new perfume: Green Odour.
+created new perfume: The escape.
+cheated on their partner.
+had a child.
+had another child.
+adopted a child.
+bought a yacht.
+got divorced.
+got verified on twitter.
+got verified on instagram.
+got verified on facebook.
+got verified on youtube.
+donated to charity.
+overdosed.
 #Jobs
 Taxi driver.
 Foreman.
@@ -370,31 +339,48 @@ Plumber.
 Vet.
 Paramedic.
 Therapist.
-
-#Politics
-A new movie has come out: Detective Squirtle!
-Donald Trump has built a wall around The White House.
-The Queen of England has passed away.
-A new disease began to spread in Argentina: The yellow plague.
-Vampires are confirmed in Africa.
-A tribe of cannibals has been found at an Island near America.
-The UK has finally left the EU.
-A Cactus God statue was found in Egypt.
-Terrorist attacks have occured in Ireland.
-Scotland has left the UK.
-Africa has another drought.
-The sea levels have increased.
-Ice began falling from the sky in May.
-The new Olympics will be hosted in Jerusalem.
-A new faith has dominated the globe- The Flying Spaghetti Monster
-Aliens visited Earth.
-Aliens took over America.
-Hillary Clinton has passed away.
-Incest became legal in Alabama
-First Alien president in America.
-Jeremy Corybn has come out as a communist. 
-UKIP leads in the polls by 20 points above the conservatives. 
-
+#JobEvents
+You got a promotion.
+You got a 3% raise.
+You got a 20% raise.
+You got a 6% raise.
+You got a 5% raise.
+You got a 1% raise.
+You got fired.
+You began looking for a better job.
+Your boss made a romantic gesture for a possible promotion.
+#MarriageEventsYour partner started watching a new show.
+You and your partner argued.
+Your partner had a one night stand with another person.
+You and your beloved had a photo session.
+You and your partner went on a trip to Japan.
+You and your partner went on a trip to Africa.
+You and your partner went on a trip to Russia.
+You and your partner went on a trip to China.
+You and your partner went on a trip to France.
+You and your partner went on a trip to Poland.
+You and your partner went hiking.
+You cheated on your partner.
+You and your partner had a three-way.
+You are your partner had an argument, so you slept at a friends house.
+You and your partner went to a disco.
+#ParentEvents
+Your child brought home a drawing of you. It was hideous!
+Your child bought you a birthday present.
+Your child got an F on their report card.
+Your child got an A on their report card.
+#Death
+brain cancer.
+liver failure.
+anal cancer.
+brain cancer.
+lung cancer.
+paralysis.
+a car accident.
+a crazy old man with a chainsaw.
+overdosing on drugs.
+a heart attack.
+burning alive in your house.
 #Countries
 Afghanistan
 Albania
@@ -591,244 +577,6 @@ Vietnam
 Yemen
 Zambia
 Zimbabwe
-
-#MaleNames
-Duncan
-Finlay
-Jonathan
-Harry
-Luke
-Donte
-Curtis
-Kane
-Ed
-Jordan
-Markus
-Lukan
-Edward
-Jake
-Lewis
-Jack
-Stephen
-Oliver
-George
-Marko
-Edward
-Noah
-Charlie
-Samuel
-Jacob
-Benjamin
-Alfie
-Alfred
-Oscar
-Julian
-Kian
-Warren
-Mark
-Nathan
-Simon
-Montgeometry
-Peter
-Daniel
-Adolf
-Karl
-Brian
-Steve
-Paul
-Donald
-Barney
-Bernie
-Michael
-Keith
-Barry
-Phil
-Gary
-Jimjom
-Kanye
-Bob
-Orangutang
-Ching
-Chong
-William
-Thomas
-Gene
-Jean-Luc
-Geordi
-Maximus
-Max
-Rodney
-Valentine
-Alfred
-Ellis
-Clifford
-Hershel
-Damian
-Brendon
-Allan
-Art
-Zachary
-Ernie
-Tracey
-Maurice
-Chauncey
-Max
-Enoch
-Ike
-Wilburn
-Irvin
-Darrel
-Antione
-Winston
-Marcus
-Mariano
-Phil
-Oliver
-Joesph
-Ben
-Abraham
-Curtis
-Gabriel
-Federico
-Bob
-Ian
-Darrin
-Mitchell
-Sid
-Joan
-Brice
-Edison
-Sylvester
-Alexis
-Nolan
-Jules
-Booker
-Jamey
-Andreas
-Jackie
-Mitch
-Shane
-
-#FemaleNames
-Olivia
-Anna
-Isabelle
-Eve
-Mia
-Paige
-Monica
-Victoria
-Kate
-Susan
-Maya
-Ellie
-Robin
-Grace
-Lily
-Dora
-Kelley
-Alara
-Sophie
-Luna
-Kim
-Chloe
-Lily
-Alexandra
-Maxine
-Elizabeth
-Samantha
-Ziel
-Ezri
-Jadzia
-Morgan
-Ada
-Hannah
-Zofia
-Cara
-Adria
-Paula
-Crystal
-Cardine
-Catherine
-Millie
-Jackie
-Karen
-Charlie
-Emily
-Lampshade
-Theresa
-Michaela
-Bertha
-Gertrude
-Beatrice
-Agata
-Agatha
-Kloe
-Kim
-Kendall
-Carole
-Sarah
-Sara
-Sharon
-Claire
-Kathrine
-Deanna
-Amy
-Samantha
-Zoe
-Zoey
-Kira
-Karie
-Yelena
-Terese
-Loan
-Julienne
-Jolene
-Pattie
-Takisha
-Veronique
-Drema
-Sueann
-Kellie
-Sherrie
-Enriqueta
-Millicent
-Patti
-Somer
-Cathryn
-Ladawn
-Marisol
-Melodi
-Glenda
-Roni
-Tammy
-Renae
-Samella
-Carole
-Lovetta
-Pansy
-Maude
-Eilene
-Jenine
-Jannet
-Dot
-Meri
-Helen
-Renata
-Phung
-Daphne
-Tamala
-Myrta
-Selma
-Alma
-Deann
-Sonia
-Tamica
-Tara
-Celena
-Celsa
-Qiana
-
 #Surnames
 Sisko	
 Brown	
@@ -1114,3 +862,238 @@ Kaiser
 Pena
 Combs
 Haley
+#MaleNames
+Duncan
+Finlay
+Jonathan
+Harry
+Luke
+Donte
+Curtis
+Kane
+Ed
+Jordan
+Markus
+Lukan
+Edward
+Jake
+Lewis
+Jack
+Stephen
+Oliver
+George
+Marko
+Edward
+Noah
+Charlie
+Samuel
+Jacob
+Benjamin
+Alfie
+Alfred
+Oscar
+Julian
+Kian
+Warren
+Mark
+Nathan
+Simon
+Montgeometry
+Peter
+Daniel
+Adolf
+Karl
+Brian
+Steve
+Paul
+Donald
+Barney
+Bernie
+Michael
+Keith
+Barry
+Phil
+Gary
+Jimjom
+Kanye
+Bob
+Orangutang
+Ching
+Chong
+William
+Thomas
+Gene
+Jean-Luc
+Geordi
+Maximus
+Max
+Rodney
+Valentine
+Alfred
+Ellis
+Clifford
+Hershel
+Damian
+Brendon
+Allan
+Art
+Zachary
+Ernie
+Tracey
+Maurice
+Chauncey
+Max
+Enoch
+Ike
+Wilburn
+Irvin
+Darrel
+Antione
+Winston
+Marcus
+Mariano
+Phil
+Oliver
+Joesph
+Ben
+Abraham
+Curtis
+Gabriel
+Federico
+Bob
+Ian
+Darrin
+Mitchell
+Sid
+Joan
+Brice
+Edison
+Sylvester
+Alexis
+Nolan
+Jules
+Booker
+Jamey
+Andreas
+Jackie
+Mitch
+Shane
+#FemaleNames
+Olivia
+Anna
+Isabelle
+Eve
+Mia
+Paige
+Monica
+Victoria
+Kate
+Susan
+Maya
+Ellie
+Robin
+Grace
+Lily
+Dora
+Kelley
+Alara
+Sophie
+Luna
+Kim
+Chloe
+Lily
+Alexandra
+Maxine
+Elizabeth
+Samantha
+Ziel
+Ezri
+Jadzia
+Morgan
+Ada
+Hannah
+Zofia
+Cara
+Adria
+Paula
+Crystal
+Cardine
+Catherine
+Millie
+Jackie
+Karen
+Charlie
+Emily
+Lampshade
+Theresa
+Michaela
+Bertha
+Gertrude
+Beatrice
+Agata
+Agatha
+Kloe
+Kim
+Kendall
+Carole
+Sarah
+Sara
+Sharon
+Claire
+Kathrine
+Deanna
+Amy
+Samantha
+Zoe
+Zoey
+Kira
+Karie
+Yelena
+Terese
+Loan
+Julienne
+Jolene
+Pattie
+Takisha
+Veronique
+Drema
+Sueann
+Kellie
+Sherrie
+Enriqueta
+Millicent
+Patti
+Somer
+Cathryn
+Ladawn
+Marisol
+Melodi
+Glenda
+Roni
+Tammy
+Renae
+Samella
+Carole
+Lovetta
+Pansy
+Maude
+Eilene
+Jenine
+Jannet
+Dot
+Meri
+Helen
+Renata
+Phung
+Daphne
+Tamala
+Myrta
+Selma
+Alma
+Deann
+Sonia
+Tamica
+Tara
+Celena
+Celsa
+Qiana
