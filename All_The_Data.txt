@@ -23,7 +23,7 @@ You saw a stray dog.
 You watched a good movie with your friends.
 You got a new toy for your birthday.
 You realised Santa isn't real.
-You got £2 from the tooth fairy.
+You got Â£2 from the tooth fairy.
 You got a new BMX for christmas.
 You started drawing with oil paint.
 You swallowed a lego and almost died.
@@ -49,7 +49,7 @@ You caught a cold.
 You watched a bad movie with your friends.
 You met a new person.
 You missed the bus.
-You found £10.
+You found Â£10.
 Your phone broke.
 You saw a stray dog.
 You watched a good movie with your friends.
@@ -93,7 +93,7 @@ You found an attractive person from your class.
 You were rejected by your crush.
 #Middle
 You ate a meal at a cafe.
-You got mugged and lost £50.
+You got mugged and lost Â£50.
 Your phone broke.
 You saw a stray dog.
 You watched a good movie with your friends.
@@ -116,7 +116,7 @@ Your older sister moved out.
 You went to the gym.
 A rigorous stretch of military training strengthened you.
 You made a new friend.
-You found £10.
+You found Â£10.
 You made a friend, someone you work with regularly. 
 You committed mass genocide.
 You watched your favourite show: Trek Wars.
@@ -195,7 +195,7 @@ You phoned your child.
 Your sister died.
 Your brother died.
 You went to the shop for milk.
-You found £5 laying on the pavement.
+You found Â£5 laying on the pavement.
 You watched TV.
 You started to sew.
 You sewed a hat.
@@ -349,7 +349,8 @@ You got a 1% raise.
 You got fired.
 You began looking for a better job.
 Your boss made a romantic gesture for a possible promotion.
-#MarriageEventsYour partner started watching a new show.
+#MarriageEvents
+Your partner started watching a new show.
 You and your partner argued.
 Your partner had a one night stand with another person.
 You and your beloved had a photo session.
@@ -422,7 +423,7 @@ China
 Colombia
 Comoros
 Costa Rica
-Côte d’Ivoire
+CÃ´te dÂ’Ivoire
 Croatia
 Cuba
 Cyprus
@@ -532,7 +533,7 @@ Saint Lucia
 Saint Vincent and the Grenadines
 Samoa
 San Marino
-São Tomé and Príncipe
+SÃ£o TomÃ© and PrÃ­ncipe
 Saudi Arabia
 Senegal
 Serbia
