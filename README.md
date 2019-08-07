@@ -4,4 +4,4 @@
 
 This is testing for Aggie's Life Sim
 
-Currently testing: Reading from one textfile 
+Currently testing: Polishing it 
